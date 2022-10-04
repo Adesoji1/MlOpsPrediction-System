@@ -1,0 +1,7 @@
+*.db
+corpora/
+mlruns/
+models/
+data/
+tokenizer_pickle/
+.zen/
